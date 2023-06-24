@@ -1,10 +1,10 @@
 {
   "name": "Hass.io Access Point",
   "version": "0.4.7",
-  "slug": "hassio-access-point",
-  "description": "Create a WiFi access point to directly connect devices to Home Assistant",
+  "slug": "hassio-access-point-test",
+  "description": "Create a WiFi access point to directly connect devices to Home Assistant-",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
-  "url": "https://github.com/mattlongman/hassio-access-point",
+  "url": "https://github.com/ayadss11/Hassio-Access-Point-test",
   "startup": "system",
   "boot": "auto",
   "host_network": true,
